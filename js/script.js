@@ -137,11 +137,9 @@ function setActiveNavLink() {
 
   // Map section IDs to nav link hrefs
   const idToHref = {
-    home: "#",
     about: "#about",
     skills: "#skills",
-    work: "#work",
-    projects: "#work",
+    projects: "#projects",
     contact: "#contact",
   };
 
